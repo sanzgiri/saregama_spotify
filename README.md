@@ -42,7 +42,7 @@ python create_playlist_by_tracks.py <username> <playlist> <filename> <overwrite>
 ### not_found tracks are added to file notfound_<playlist>.txt
 ### if reprocess = 1, tracks from "notfound" file are reprocessed and appended to playlist (use with overwrite = 0)
 
-python create_saregama_playlists.py <username> <playlist> <filename> <overwrite> <reprocess></reprocess>
+python create_saregama_playlists.py <username> <playlist> <filename> <overwrite> <reprocess>
 
 
 ```
