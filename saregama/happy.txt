@@ -1,0 +1,936 @@
+01. Jawan Hain Mohabbat
+02. Chupchup Khade Ho Zaroor Koi
+03. Hawa Mein Udta Jaye
+04. Patli Kamar Hai
+05. Lara Lappa Lara Lappa Laai
+06. Meri Ankhon Mein Bas Gaya
+07. Tadbeer Se Bigdi Huyi Taqdeer
+08. Nain Deewane Ik Nahin Mane
+09. Ghunghat Ke Pat Khol
+10. Gore Gore O Banke Chhore
+11. Tu Kaun Hai Mera
+12. Balma Bada Nadaan Re
+13. Ek Do Teen
+14. Saiyan Dil Mein Aana Re
+15. Shola Jo Bhadke
+16. Sanawari Surat Mann Bhai
+17. Hamein Ho Gaya Tumse Pyar
+18. Ghar Aaya Mera Pardesi
+19. Mujhe Tum Se Mohabbat Hai
+20. Bholi Surat Dil Ke Khote
+21. Dil Mein Sama Gaye Sajan
+22. De Bhi Chuke Hum Dil Nazrana
+23. Main Dil Hoon Ek Armaan
+24. Dekho Aaya Yeh Kaisa Zamana
+25. Chori Chori Meri Gali Aana Hai
+26. Dekho Jadoo Bhare More Nain
+27. Ja Ja Re
+28. Sunte The Naam Hum Jinka
+29. Tum Se Hai Pyar Mujhe
+30. Chand Ghatne Laga
+31. Lapak Jhapak Tu Aa Re
+32. Raahi Matwale
+33. Man Ki Been Matwari Baje
+34. Nanhe Munne Bachche Teri
+35. Kabhi Aar Kabhi Paar
+36. O Balliye
+37. Deewana Dil Gaaye
+38. Jane Bhi De Chhod Yeh
+39. Marna Bhi Mohabbat Mein
+40. Nain Khoye Khoye Tere Dil Mein
+41. Dil Ki Umangein Hai Jawan
+42. Mera Joota Hai Japani
+43. Mud Mud Ke Na Dekh Mud Mud
+44. Kaisi Yeh Mohabbat Ki Saja
+45. Suno Suno Suno Ji
+46. Ab Aage Teri Marzi
+47. Sajan Ki Ho Gayi Gori
+48. Man Mohana Bade Jhoothe
+49. Aplam Chaplam
+50. Yeh Baharon Ke Din
+51. Dil Ka Haal Sune Dilwala
+52. Aai Jhumti Bahar Laai Dil Ka
+53. Dil Hum Se Woh Lagaye
+54. Jabse Mili Tose Ankhiyan
+55. Kar Gaya Re Mujhpe Jadu
+56. Ae Wai Duniya Deve Duhai
+57. Dil Dil Se Milakar Dekho
+58. Sultana Sultana Tu Na
+59. Chappar Phad Ke Deta Hai
+60. Boojh Mera Kya Naam Re
+61. Dil Jawan Hain Arzoo Jawan
+62. Chana Jor Garam Babu Main
+63. Ae Dil Mujhe Bata De
+64. Chali Gori Pee Se Milan Ko
+65. Nakhrewali
+66. Are Bhai Nikal Ke Aa Ghar Se
+67. Use Mil Gai Nai Zindagi
+68. Main Piya Teri
+69. Hay Hay Yeh Nigahen
+70. All Line Clear
+71. Ketaki Gulab Juhi
+72. Kahin Pe Nigahen Kahin Pe
+73. Leke Pehla Pehla Pyar
+74. Din Ho Ya Raat Hum Rahe Tere
+75. Mang Ke Saath Tumhara
+76. Umadh Ghumadh Kar Aai Re
+77. O Gaadiwale
+78. Itne Bade Jahan Mein Ae Dil
+79. Chali Chali Re Patang
+80. Kare Kare Badra
+81. Tie Lagake Mana Ban Gaye
+82. Sakhiri Sun Bole Papiha
+83. Yeh Mard Bade Dil Sard Bade
+84. Eena Meena Deeka
+85. Sar Jo Tera Chakraye
+86. Manzil Wohi Hai Pyar Ki
+87. Aaye Hai Door Se Milne Huzoor
+89. Holi Aayi Re Kanhai
+90. Yeh Desh Hai Veer Jawanon Ka
+91. Honthon Pe Tera Naam
+92. Reshmi Salwar Kurta Jali Ka
+93. Dukh Bhare Din Beete Re
+94. Surma Mera Nirala
+95. Nazar Lagi Raja Tore Bangle Par
+96. Dil Lagake Kadar Gai Pyare
+97. Belia Belia
+98. Mera Naam Chin Chin Chu
+99. Aaiye Meharban
+100. Dekh Ke Teri Nazar
+101. Mohabbat Ka Haath Jawani Ka
+102. Pyar Par Bas To Nahin Hai
+103. Chhun Chhun Ghunghroo Bole
+104. Jis Pyar Mein Yeh Haal Ho
+105. Hai Kali Kali Ke Lab Par
+106. Mere Man Ka Bawra Panchhi
+107. Ghadi Ghadi Mera Dil Dhadke
+108. Hum Pyar Mein Jalnewalon Ko
+109. Aaja Chhaye Kare Badra
+110. O Babu O Laila Mausam Dekho
+111. Cat Cat Mane Billi
+112. Chadh Gayo Papi Bichhua
+113. Babu Samjho Ishare
+114. Hum To Mohabbat Karega
+115. Jangal Mein More Nacha
+116. Man Mora Bawara
+117. Paanch Rupaiya Baara Aana
+118. Chhota Sa Balma
+119. Ham The Woh Thi
+120. Main Bangali Chhokra
+121. Ruk Jao Na Jee
+122. Rahi Mil Gaye Rahon Mein
+123. Dilruba Meri Neeta
+124. Pyar Mera Majboor Pardesi
+125. Nashe Mein Hum Nashe Mein
+126. Nazron Ke Tir Mare Kas Kas
+127. Nain Dwar Se Mann Mein Woh
+128. Ankhiyan Bhul Gayi Hai Sona
+129. Mujhko Sanam Tere Pyar Ne
+130. Kari Kari Kari Andhiyari Thi Raat
+131. Are Ja Re Hat Natkhat
+132. Aa Dil Se Dil Mila Le
+133. Yaad Aai Aadhi Raat Ko
+134. O Dildar Bolo Ek Baar
+135. Jo Tum Muskura Do
+136. Kase Kahoon Mann Ki Baat
+137. Hum Aur Tum Aur Ye Sama
+138. Ek Do Teen Char Aur Panch
+139. Kahe Jhum Jhum Raat Yeh
+140. Karib Aao Na
+141. O Mora Nadan Balma
+142. Main Rangeela Pyar Ka Rahi
+143. Main Rickshwala
+144. Bagon Mein Baharon Mein
+145. Haule Haule Ghunghat Pat
+146. Dil Deke Dekho Dil Deke Dekho
+147. Jaanu Jaanu Ri
+148. Preetam Daras Dikhao
+149. Door Desh Se Koi Sapera Aaya
+150. Tirchi Nazar Se Yun Na Dekh
+151. Ham Bhi Hain Tum Bhi Ho
+152. Dil Na Kahin Lagana
+153. Haseen Ho Khuda To Nahin Ho
+154. Baje Payal Chhun Chhun
+155. Main Ne Shayad Tumhen Pehle
+156. Mujhe Mil Gaya Bahana
+157. Na To Caravan Ki Talash Hai
+158. Nigah-E-Naaz Ke
+159. Yeh Hai Ishq Ishq
+160. Yeh Dil Ki Lagi Kya Hogi
+161. Nainon Se Nainon Ki Baat Hui
+162. Mori Chham Chham Baje
+163. Dum Dum Diga Diga
+164. Sanjh Dhali
+165. Pyar Kar Le
+166. Ho Main Ne Pyar Kiya
+167. Kya Hawa Chali Baba Ritu Badli
+168. Machalti Arzoo Khadi Bahen
+169. Madhuban Mein Radhika Nache
+170. Tan Rang Lo Ji Aaj Mann
+171. Zara Mann Ki Kewadiya Khol
+172. Sheesha-E-Dil Itna Na Uchhalo
+173. Koi Ghar Aayega Pyar Jatayega
+175. Chhalia Mera Naam
+176. Mera Yaar Bana Hain Dulha
+177. Andaz Mera Mastana
+178. Gaal Gulabi Kis Ke Hain
+179. Ankhon Mein Rang Kyon Aaya
+180. Yeh Mausam Rangeen Sama
+181. Dil Ki Kahani Rang Layee Re
+182. Nani Teri Morni Ko
+183. Jane Kaise Sapnon Mein Kho
+184. Begani Shadi Mein Abdulla
+185. Ajib Dastan Hai Yeh
+186. Balma Mori Lat Suljha De
+187. Ankhon Mein Tujhko Chhupake
+188. Teri Mehfil Mein Kismat
+189. Batt Takat Thak Gaye Naina
+190. Ge Ge Geli Zara Timbaktu
+191. Gaa Deewane Jhoom Ke
+192. Ja Ja Ja Mere Bachpan
+193. Ganga Aaye Kahan Se
+194. Itna Na Mujhse Tu Pyar Badha
+195. Main Zindagi Ka Saath Nibhata
+196. Apni Ulfat Pe Zamane Ka
+197. Dadi Amma Dadi Amma Maan
+198. Ankhon Mein Masti Sharab Ki
+199. Main Hoon Jhoom Jhoom
+200. Aai Aai Aa Sukoo Sukoo
+201. Jahan Mein Aesa Kaun Hai
+202. Yeh Rang Na Chhutega
+203. Sakhiya Aaj Mujhe Neend Nahin
+204. Yeh Umar Hai Kya Rangeeli
+205. Rungoli Sajao Re
+206. Phir Tere Shahar Mein
+207. Lakh Chhupao Chhup Na
+208. Main Pyar Ka Rahi Hoon
+209. Zaban-E-Yaar Mann Turki
+210. Mujhe Ishq Hai Tujhi Se
+211. Ae Dil-E-Awara Chal
+212. Are Kisne Chilman Se Mara
+213. Sapne Suhane Ladakpan Ke
+214. Ude Panchhi Toli Mein
+215. Gori Zara Hans De Tu Hans De
+216. Humrae Gaon Koi Aayega
+217. Baar Baar Dekho Hazar Baar
+218. Chand Jane Kahan Kho Gaya
+219. Mere Dil Kabhi To Koi Aayega
+220. Koi Bata De Dil Hai Jahan
+221. Chil Chil Chilla Ke
+222. Pawan Deewani Na Mane
+223. Zaroorat Hai Zaroorat Hai
+224. Main Aashiq Hoon Baharon Ka
+225. Dhadakne Lagta Hai Mera Dil
+226. Badli Badli Duniya Hai Meri
+227. Sun Le Tu Dil Ki Sada
+228. Allah Bachaye Naujawanon Se
+229. Main Jagoon Sari Rain
+230. Tu Kahan Ye Bata
+231. O Meri Ladli
+232. Na Na Na Re
+233. Mora Gora Ang Laile
+234. O Jogi Jab Se Tu Aaya Mere
+235. O Panchhi Pyare Sanjh Sakare
+236. Govinda Aala Re Aala
+237. Ham Tere Pyar Mein
+238. Mujhko Apne Gale Laga Lo
+239. Socha Tha Pyar Hum Na
+240. Agar Main Puchhoon Jawab
+241. Zindagi Kitni Khubsoorat Hai
+242. Jab Jaag Uthe Arman
+243. Ek Baar Zara Phir Keh Do
+244. Tum Sab Ko Chhod Kar
+245. Ye Tanhai Hay Re Hay
+246. Woh Chale Jhatak Ke Daman
+247. Nigahen Milane Ko Jee Chahta
+248. Mere Mehboob Mein Kya Nahin
+249. Tum To Pyar Ho Sajna
+250. Sunoji Suno Hamari Bhi Suno
+251. Tumko Piya Dil Diya
+252. Kahe Itna Gumaan
+253. Yeh Kisne Geet Chheda
+254. Tere Khayalon Mein
+255. Nache Mann Mora Magan
+256. Hansta Hua Noorani Chehra
+257. Ooi Maa Ooi Maa Yeh Kya Ho
+258. Lakhon Hain Nigahon Mein
+259. Aji Qibla
+260. Zulf Ki Chhaon Men
+261. Khile Hai Sakhi Aaj Phoolwa
+262. Chura Le Na Tumko Ye
+264. Chaman Ke Phool Bhi Tujhko
+265. Maangi Hai Duayen Humne
+266. Jogira Holi Khelat Nandlal
+267. Aa Ja Aa Ja Re
+268. Hameen Se Muhabbat
+269. April Fool Banaya
+270. Baad Muddat Ke Ye Ghadi
+271. Teri Nigahon Pe Mar Mar Gaye
+272. Khoya Khoya Chanda
+273. Raah Bani Khud Manzil
+274. Woh Chup Rahen To Mere
+275. Ek Chameli Ke Mandve Tale
+276. Yeh Teri Saadgi Yeh Tera
+277. Kahe Tarsaye Jiyara
+278. Tum Apna Ranjhogham Apni
+279. Dil Khush Hain Aaj
+280. Ae Ri Jane Na Doongi
+281. Ham Hain Rajkumar
+282. Ek Shahenshah Ne Banwa Ke
+283. Tu Mere Samne Hai
+284. Sadiyon Purani Apni Kahani
+285. Gagan Ke Chanda Na Poochh
+286. Radhike Tune Bansari Churayee
+287. Chal Mere Dil Lahrake Chal
+288. Main Kya Karoon Ram
+289. Ae Janeman Hans Lo Zara
+290. Subah Na Aayi Sham Na Aayi
+291. Shokh Nazar Ki Bijliyan
+292. Khoobsurat Hasina Jane Ja
+293. Kahin Na Kahin Dil Lagana
+294. Sansar Se Bhage Phirte Ho
+295. Har Dil Jo Pyar Karega
+296. Haye Tabassum Tera
+297. Hum Jab Simat Ke Aapki Bahon
+298. Jab Ishq Kahin Ho Jata Hai
+299. Jaan Pehchan Ho
+300. Khayalon Mein
+301. Nazar Utha Ke Yeh Rangeen
+302. Humne To Dil Ko
+303. Aapko Pyar Chhupane Ki Buri
+304. Chehre Pe Khushi Chha Jati Hai
+305. Aage Bhi Jane Na Tu
+306. Neel Gagan Par Udte Badal
+307. Roka Kai Baar Main Ne
+308. Jaiye Aap Kahan Jayenge
+309. Thehriye Hosh Mein Aa Loon
+310. Sara Mora Kajra Churaya
+311. Bhoot Bungla
+312. Aaja Re Mere Pyar Ke Rahi
+313. Neend Nigahon Se Kho Jati Hai
+314. Aise To Na Dekho Ki
+315. Pukarta Chala Hoon Main
+316. Aao Twist Karen
+317. Tukde Hai Mere Dil Ke
+318. Piya Tose Naina Lage Re
+319. Bagh Mein Kali Khili
+320. Tu Raat Khadi Thi Chhat Pe
+321. Meri Mohabbat Jawan Rahegi
+322. Mat Jaiyo Naukariya Chhodke
+323. Chalat Musafir
+324. Aap Se Maine Meri Jaan
+325. O Meri Maina
+326. Pyar Kiye Ja
+327. Mera Pyar Woh Hai
+328. Yeh Kali Jab Talak Phool Banke
+329. Aise Danton Mein Ungli Dabao
+330. Dabe Labon Se Kabhi Jo Koi
+331. Haseen Wadiyon Fizaon Se
+332. Yun Na Dekho Hamen Baar
+333. Na Jane Kyon Hamare Dil Ko
+334. Love In Tokyo
+335. Apne Liye Jiye To Kya Jiye
+336. Kuchh Dil Ne Kaha Kuchh Bhi
+337. Kyun Mujhe Itni Khushi De Di
+338. Bheegi Bheegi Faza
+339. Jao Re Jogi
+340. Tumhein Yaad Karte Karte
+341. Sheeshe Se Pee Ya Paimane Se
+342. Agre Ka Lala Angreji Dulhan
+343. Phool Sa Chehra
+344. Sawan Aaye Ya Na Aaye
+345. Allah Jane Main Hoon Kaun
+346. O Haseena Zulfonwale Jane
+347. Aeji Zara Sunna
+348. Jab Pyar Kiya To Marna Kyun
+349. Kaliyon Ne Ghunghat Khole
+350. Dil Humne De Diya
+352. Paan Khaye Saiyan Hamarao
+353. Khat Likh De
+354. Jhoomka Gira Re
+355. Phir Miloge Kabhi
+356. Dil Ki Mehfil Saji Hai Chale
+357. Huzoorewala
+358. Tumhi Se Hui Hai Shuru
+359. Haan Maine Bhi Pyar Kiya
+360. Aaj Ki Raat Yeh Kaisi Raat
+361. Tumhari Zulf Ke Saye Mein
+362. Kal Raat Zindagi Se Mulaqat Ho
+363. Neele Gagan Ke Tale
+364. Chunri Sambhal Gori
+365. Ruk Ja Ae Hawa
+366. Dheere Dheere Bol Koi Sun
+367. Aaj Sakhi Ri More Piya Ghar
+368. Yeh Dil Na Hota Bechara
+369. Bataoon Kya Lana
+370. Duniya Ki Sair Kar Lo
+371. Joshe Jawani Hai Re Hai
+372. Duniya Pagal Hai
+373. Ram Kare Aisa Ho Jaye
+374. Baar Baar Din Ye Aaye
+375. Bol Gori Bol Tera Kaun Piya
+376. Mast Baharon Ka Main Aashiq
+377. Honthon Mein Aisi Baat
+378. Kanha Kanha Aan Padi Main
+379. Ankhon Mein Qayamat Ke Kajal
+380. Chandi Chhalla
+381. Ab To Muskuraiye Zara
+382. Dilbar Dilbar Kahte Kahte Hua
+383. Jagi Badan Mein Jwala
+384. Dil Mera Tumhari Adayen Le
+385. Mehbooba Bana Lo Mujhe
+386. Aa Mere Gale Lag Ja
+387. Mujhe Mera Pyar De Do
+388. Aao Aao Sanwariya
+389. Parde Mein Rahne Do
+390. Shikar Karne Ko Aaye
+391. Saaf Karo Insaf Karo
+392. Rail Gaadi
+393. Mere Desh Ki Dharti
+394. Kajra Mohabbat Wala
+395. Aao Huzoor Tumko
+396. Mil Gaye Mil Gaye Aaj Mere
+397. Mere Paas Aao Nazar To Milao
+398. Ek Anar Do Bimar
+399. Mere Bhole Balam
+400. Meri Beri Ke Ber Mat Todo
+401. Dulhan Se Tumhara Milan Hoga
+402. Chandni Raat Mein
+403. Kuchh Kahen To Khafa
+404. Akeli Hoon Main Piya Aa
+405. Phirkiwali
+406. Mera Naam Hai Chameli
+407. Unse Mili Nazar Ke Mere Hosh
+408. Main To Pi Ki Nagariya Jane
+409. Yeh Sama Yeh Ritu Yeh
+410. Sajna O Sajna
+411. Main To Bhool Chali Babul Ka
+412. Woh Haseen Dard De Do
+413. Chakke Mein Chakka Chakke
+414. Nazuk Nazuk Badan Mora
+415. Ek Chatur Naar Karke Sringar
+416. Kitna Hasin Hai Yeh Jahan
+417. Aya Sawan Jhoom Ke
+418. Tum Bin Jaoon Kahan
+419. Tu Mera Main Teri
+420. Aap Chahen Mujhko
+421. Main Na Miloongi
+422. Dareeche Shak
+423. Tu Jangal Ki Morni
+424. Woh Kaun Hai
+425. Bura Mat Suno Bura Mat Dekho
+426. Hulle Hullare
+427. Ankh Meri Galati Se Lad Gai
+428. Geet Tere Saaz Ka
+429. Meri Mohabbat Teri Jawani
+430. Yakeen Karlo Mujhe Mohabbat
+431. Dil Mein Kya Hai Tere
+432. Yeh Duniyawale Poochhenge
+433. Phool Hai Baharon Ka
+434. Badan Pe Sitare Lapete Huye
+435. Nazar Mein Bijli Ada Mein Shole
+436. Bachke Jane Na Doongi Dildar
+437. Khai Hai Re Hum Ne Qasam
+438. Karle Pyar
+439. Zindagi Ke Rang Kai Re Saathi
+440. Kabhi Kabhi Aisa Bhi Hota Hai
+442. Muskura Ke Humko Loota
+443. Chhai Barkha Bahar
+444. Ja Re Kare Badra Balam Ke
+445. Diye Jalaye Pyar Ke Chalo
+446. Kiss Kiss Se Pyar Karoon
+447. Tumse Bichhad Kar Chain
+448. Bheegi Bheegi Raat Mein
+449. My Love Panzi Wongo
+450. Roz Roz Rozi
+451. Yeh Natak Kavi Likh Gaye
+452. Purva Suhani Aai Re
+453. Twinkle Twinkle Little Star
+454. Ek Padosan Peechhe Pad Gayi
+455. Dulhan Chali
+456. Ae Meri Jaan
+457. Ja Ri Pawaniya Piya Ke Des Ja
+458. Chali Kahan Hansti Gaati
+459. Kis Tarah Bhoolega Dil
+460. Zindagi Wo Kya Na Pyar Jismen
+461. Holi Aaee Re
+462. Tum Mere Pyar Ki Duniya Men
+463. Nateeja Humari Mohabbat Ka
+464. Mere Mehboob Tere Dum Se
+465. Main Ek Panchhi Matwala Re
+466. Tere Kooche Mein Tera
+467. Daagh Na Lag Jaye
+468. Ho Gaye Tere Ho Gaye
+469. Pyar Se Dil Bhar De
+470. Yeh Ankhen Jhuki Jhuki Si
+471. Ponchh Kar Ashq Apni Ankhon
+472. Aap Ka Chehra Masha Allah
+473. Chal Shuru Ho Ja
+474. Ho Tu Tu Tu
+475. Yeh Kaisa Aaya Zamana
+476. Hai Shukr Ke Tu Hai Ladka
+477. Das Gayi Nagin Si Zulf Teri
+478. Jaal Bichhe Hain Nigahon Ke
+479. Gangaram Ki Samajh Mein Na
+480. Lo Aayee Hai Jawani
+481. Main To Tere Rang Rati
+482. Mehbooba Teri Tasveer
+483. Bane Bade Raja
+484. Dhadkan Har Dil Ki
+485. Chala Bhi Aa Aaja Rasiya
+486. Kya Tum Wohi Ho
+487. Log Kahen Mujhe Pagla Kahin Ka
+488. Meri Bhains Ko Danda Kyon
+489. Ek Gagan Ka Raja
+490. Chali Meri Dulhan Ki Doli
+491. Jal Gai Jal Gai Yeh Jalne De
+492. Holi Khelat Nandlala
+493. Mausam Hai Baharon Ka
+494. Haye Mar Gayi O Mar Gayi
+495. Tum Bhi Khoobsurat Ho
+496. Rootha Na Karo
+497. Mere Saqiya Mere Dilruba
+498. La De Saiyan Odhani
+499. Shada Shadak Dil Kare Dhak
+500. Jab Jab Hum Tumko Dekha Hai
+501. Meri Gali Mein Aaya Chor
+502. Mera Naam Hai Shabnam
+503. Aankhen Meri Maikhana
+504. Hai Nazar Baaz Saiyan
+505. Ankhiyan Na Maar Mundia
+506. Chunar Mori Kori
+507. Jaan Gayee Main To Jaan
+508. More Saiyan Padoon Paiyan
+509. Zulfon Ke Mahkte Saye Hai
+510. Jawani O Deewani Tu Zindabad
+511. Mere Deewanepan Ki Bhi Dawa
+512. Aap Ko Pahle Bhi Kahin Dekha
+513. Mehboob Ki Mehndi
+514. Ae Bhai Zara Dekh Ke Chalo
+515. Meri Tamannaon Ki Taqdeer Tum
+516. Kaate Na Kaate Raina
+517. Chudiyan Bazar Se Mangwa De
+518. Zikra Hota Hai Jab Qayamat Ka
+519. Sapera Been Baja Been Baja
+520. Thoda Ruk Jayegi To Tera Kya
+521. Mujhe Pyas Aesi Pyas Lagi Hai
+522. Hare Rama Hare Krishna
+523. Re Mama Re Mama Re
+524. Jab Muhabbat Jawan Hoti Hai
+525. Priye Praneshwari
+526. Poochhe Jo Koi Mujhse
+527. Bansuri Bajai Ke
+528. Taron Mein Sajke Apne Suraj Se
+529. Ram Kasam Bura Na Manoongi
+531. Kachhi Kali Kachnar Ki
+532. Ye Raat Hai Pyasi Pyasi
+533. Maine Tere Liye
+534. Unke Khayal Aaye To
+535. Bole Re Papihara
+536. Waqt Thoda Sa Abhi
+537. Daiya Yeh Main Kahan Phasi
+538. Chal Chal Chal Mere Saathi
+539. Aaj Unse Pehli Mulaqat Hogi
+540. Ek Mithi Si Chubhan
+541. Dum Maro Dum
+542. Do Mastane Do Deewane
+543. Nach Meri Jaan Phataphat
+544. Main Jahan Chala Jaoon
+545. O Sapnon Ke Raja
+546. Gulabi Gulabi Ankhon Se
+547. Ham To Hai Raahi Dil Ke
+548. Koi Chupke Se Aake
+549. Mera Dil Jo Mera Hota
+550. Dhak Dhak Kaise Chalti Hai
+551. Tick Tick Tick Chalti Jaye Ghadi
+552. Jis Din Se Maine Tumko Dekha
+553. Piya Ki Gali Lage Bhali
+554. Holi Re Holi
+555. Jogi O Jogi Pyar Mein Kya
+556. Mere Samnewale Kamre Mein
+557. Sachha Pyar To Jhuk Nahin
+558. Gussa Itna Haseen Hai To
+559. Ye Kaisa Maine Madhur Si
+560. Goriya Kahan Tera Des Re
+561. Ruk Meri Rani
+562. Kitne Sapne Kitne Arman
+563. Khana Milega Pina Milega
+564. Duniya Mein Logon Ko
+565. Raampur Ka Baasi Hoon
+566. Tum Kitni Khoobsurat Ho
+567. Vaada Tera Vaada
+568. A B C D Chhodo
+569. Sun Champa
+570. Yeh Mana Meri Jan Mohabbat
+571. Saath Mein Pyara Saathi Hai
+572. Dekho Dekho Dekho Bioscope
+573. Aaj Ki Raat Koi Aane Ko Hai
+574. Tere Nainon Ke Main Deep
+575. Tere Sau Deewane
+576. Humare Siva Tumhare Aur
+577. Dekha Na Haye Re
+578. Haye Haye Ye Thanda Pani
+579. Ram Kare Babua
+580. Nis Din Nis Din
+581. Chal Prem Nagar
+582. Shishi Bhari Gulab Ki
+583. Haal Kya Hai Dilon Ka
+584. Bangle Ke Peechhe
+585. Maine Dekha Ek Sapna
+586. Jan-E-Janan Jao Kal Phir Aana
+587. Badi Door Se Aaye Hain
+588. Gaya Bachpan Jo Aai Jawani
+589. Tum Bin Jeevan
+590. Chala Jata Hoon
+591. Deewana Kar Ke Chhodoge
+592. Dil Ka Nazrana Le O Dildar
+593. Sa Re Ke Sa Re
+594. Motiyon Ki Ladi Hoon Main
+595. Dil Jalon Ka Dil Jala Ke
+596. Ni Main Yaar Manana Ni
+597. Ghodi Pe Hoke Sawar
+598. Hum Chhupe Rustam Hain
+599. Kasmein Hum Apni Jaan Ki
+600. Pyar Kabhi Kam Na Karna
+601. Lat Uljhi Hai Suljha De
+602. Maaf Karo O Baba Maaf Karo
+603. Achha Lagta Hai
+604. Deewane Hai Deewanon Ko
+605. Jane Kya Pilaya Tune
+606. Tan Mann Dhan Sab Hai Tera
+607. Mere Payalia
+608. Deep Diwali Ke Jhuthe
+609. Ek Tu Hai Piya Jis Pe Dil
+610. Dheere Se Jana Khatiyan Mein
+611. Mere Pyase Mann Ki Bahar
+612. Rajnigandha Phool Tumhare
+613. O Manchali Kahan Chali
+614. Hungama Ho Gaya
+615. Lekar Hum Deewana Dil
+616. Main Tasveer Utarta Hoon
+617. Meet Na Mila Re Mann Ka
+618. Raaz Ki Baat Hai
+620. Jane Mujhe Tune Yeh Kya Cheez
+621. Aap Ke Kamre Mein
+622. Yaadon Ki Baaraat
+623. Piya Sang Khelo Holi
+624. Apne Suron Mein
+625. Kya Nazare
+626. Thoda Sa Eitbar Kijiye
+627. Pyara Hindola Mera
+628. Dulhan Maike Chali
+629. Aapki Inayaten Aapke Karm
+630. Teri Meri Yaari Badi Purani
+631. Vallah Kya Nazara Hai
+632. Aa Humsafar Pyar Ki Sej Par
+633. Daroo Ki Botal
+634. Peene Wale Ko Peene Ka
+635. Gaadi Bula Rahi Hai
+636. Duniya Jab Jalti Hai
+637. Agre Se Ghaghro Manga De
+638. Goyake Chunanche Kiya Maine
+639. Hum Tum Gumsum Raat
+640. Kiske Seene Par Sar
+641. Tu Kya Jane O Bewafa
+642. Hum Ko Mohabbat Ho Gai Hai
+643. Bye Bye Miss Good Night
+644. Baith Ja Khadi Ho Ja
+645. Saj Rahi Gali Meri Maa
+646. Ho Jata Hai Pyar
+647. Hum Bolega To Bologe Ki Bolta
+648. Main Hoon Ghoda Yeh Hai
+649. Ae Mere Mann Main Hoon
+650. Jai Jai Shiv Shankar
+651. Muthu Kullika Vari Kall
+652. Dil Se Dil Milne Ka
+653. Sala Main To Sahab Ban Gaya
+654. Maaf Karo Maaf Karo
+655. Koi Aaya Aane Bhi De
+656. Ghar Jayegi Tar Jayegi
+657. Chal Sanyasi Mandir Mein
+658. Sun Baal Bramhachari
+659. Main Jat Yamla Pagla Deewana
+660. Uth Neend Se Mirzeya Jaag Ja
+661. Meri Galiyon Se Logon Ki Yari
+662. Do Panchhi Do Tinke
+663. Chhuk Chhuk
+664. Yeh Din Kya Aaye
+665. Ek Baar Jan E Jana
+666. Dil Mein Holi Jal Rahi Hai
+667. Sa Re Ga Ma
+668. Maine Kaha Phoolon Se
+669. Ud Chala Panchhi Ban Ke
+670. Aai Kisiki Yaad To
+671. Jamuna Kinare Aa Ja
+672. Logon Ki Zuban Pe Apna Naam
+673. Jaaneman Jaaneman
+674. Sawan Ka Mahina Aa Gaya
+675. Dariya Kinare Ek Bungla
+676. Is Reshmi Paazeb Ki Jhankar
+677. Tere Sang Jeena Tere Sang
+678. Yeh Duniya Ek Numbri
+679. Na Tum Ho Yaar Aloo
+680. Chori Chori Chupke Chupke
+681. Tum Kya Jano Mohabbat Kya
+682. Dil Kya Mehfil Hai
+683. Aji Thahro Zara Dekho
+684. Pyara Pyara Sama Hai Pyar Kar
+685. Bol Sajna Mujhe Chhodke
+686. O Daddy Ji Bolo Mera Beta Ji
+687. Jab Jab Tu Mere Samne Aaye
+688. Chal Chal Re Kathmandu
+689. Koi Mere Mathe Ki Bindiya
+690. Ni Sa Ga Ma Pa Ni Sa Re Sa
+691. Samay Tu Dheere Dheere Chal
+692. Matlab Nikal Gaya Hai To
+693. Mil Gaya Humko Saathi Mil
+694. Raahi Naye Naye Rasta Naya
+695. Socha Tha Maine To Ae Jaan
+696. Bambai Se Aaya Mera Dost
+697. O Mungada Mungada
+698. Bachna Ae Hasinon Lo Main Aa
+699. Thande Thande Paani Se
+700. Jo Ho Yaar Apna
+701. Dekho Re Dekho Band Baje Ke
+702. Mohabbat Hoon Haqeeqat Hoon
+703. Tum Nahin Yahan Hum Nahin
+704. Duniya Se Door Ek Nai Duniya
+706. Khaike Paan Banaras Wala
+707. Yeh Hai Bambai Nagaria
+708. Yeh Mera Dil Yaar Ka Deewana
+709. Are Deewano Mujhe Pehchano
+710. Jiska Mujhe Tha Intezar
+711. Bhor Bhaye Panghat Pe
+712. Mohabbat Bade Kaam Ki Cheez
+713. Tu Pee Aur Jee
+714. Nazar Lage Na Sathiyon
+715. Jaisa Des Waisa Bhes
+716. Rangrejva Tu Rang
+717. Sau Saal Jiyo Tum Jaan Meri
+718. Darogaji Chori Ho Gayi
+719. Dhoom Mache Dhoom
+720. Qadar Tune Na Jani
+721. Jag Gaya Jag Gaya
+722. Dafli Wale Dafli Baja
+723. Tumhare Bin Guzare Hain Kai
+724. Gaddi Jandi-E-Chhalanga
+725. Zindagi Phoolon Ki Nahin
+726. Haan Pahli Bar
+727. Tu Meri Mehbooba Hai
+728. Mere Saiyan Ne Bulaya
+729. Zindagi Ka Yun Zuban Par
+730. Maine Pyar Kiya To Thik Kiya
+731. Tum Jo Bhi Ho Dil Aaj Do
+732. Aanewala Pal Janewala Hai
+733. Tere Haathon Mein
+734. Sawan Ki Aai Bahar Re
+735. Teri Rab Ne Bana Di Jodi
+736. Atthara Baras Ki Tu Hone Ko
+737. Mera Dil Leke Chal Diye
+738. Golmaal Hai Bhai Sab Golmaal
+739. Ek Baat Kahoon Gar Mano Tum
+740. Ek Din Sapne Mein Dekha Sapna
+741. Hamne Mana Hampe Sajan
+742. Parde Mein Koi Baitha Hai
+743. Uthe Sabke Kadam Dekho Ram
+744. Mere Paas Aao Mere Dosto
+745. Oonchi Oonchi Baaton Se
+746. Meri Dooron Se Aai Baraat
+747. Haye Re Haye Tera Ghunghta
+748. Wada Hai Kya Kya Hai Kasam
+749. Humka Maafi Dai Do
+750. Yaar Ki Khabar Mil Gai
+751. Yeh Tanhaiyan
+752. Ho Jaye Phir Us Din Ka Jo
+753. Main Aur Tu Kar Le Dosti
+754. Sajan Ho Sajan
+755. Kabhi Tumne Kisi Ko Phansa
+756. Masti Kahan Hai
+757. Yeh Zindagi Chaman Hai
+758. Jane Kyon Mujhe Ab Yun Lage
+759. Sun Sun Sun Didi
+760. Qayda Qayda
+761. Piya Bawri Piya Bawri
+762. Sare Shahar Mein
+763. Paisa O Paisa
+764. Pal Do Pal Ka Saath Humara
+765. Khatouba
+766. Om Shanti Om
+767. Hari Om Hari
+768. Tune Abhi Dekha Nahin
+769. Suman Sudha
+770. Manmani Se Hargiz Na Daro
+771. Main Akela Apni Dhun Mein
+772. Jab Chhaye Mera Jadoo
+773. Bhari Barsat Mein Dil Jalaya
+774. Tere Bina Jeena Kya
+775. Hans Tu Hardam
+776. Gup Chup Chori Chori
+777. Koi Bhi Dil Mein Na Aaya Tha
+778. Aadhi Ye Raat Jale
+779. Ladkiwalo Ladki Tumhari
+780. Humen Tumse Pyar Kitna
+781. Ek Chhatri Aur Hum Hain Do
+782. Mere Angne Mein
+783. Mere Jeevan Saathi
+784. Apni To Jaise Taise
+785. Phoolvati Ka Gajra
+786. Gori Ho Kali Ho
+787. Jiske Liye Sabko Chhoda
+788. Aaye Hain Woh Mazaar Pe
+789. Kahe Paise Pe
+790. Ramba Ho Ho Ho Samba Ho
+792. Rang Barse Bheege Chunarwali
+793. He Raju He Daddy
+794. Saiyan Doli Leke Aaye
+795. Kali Ghodi Dwar Khadi
+796. Sar Se Sarke
+797. Sun Ri Yashoda Maiya
+798. Maro Bharkar Pichkari
+799. Balle Balle Bhai
+800. Udi Baba
+801. Saat Saheliyan
+802. Raat Baaqi Baat Baaqi
+803. I Am A Disco Dancer
+804. Jaana
+805. Gulabi Chude Wali Yeh Dil Mod
+806. Mera Dil Liye Ja
+807. Sathiya Tu Mere Sapnon Ka
+808. Boom Boom
+809. Jimmy Jimmy Jimmy Aaja
+810. Ae Oh Aa Zara Mudke
+811. Yaad Aa Raha Hai
+812. Kurta Malmal Ka
+813. Gunja Re
+814. Jogi Ji Dheere Dheere
+815. Kaun Disha Mein Leke Chala
+816. Mere Mehboob Tujhe Salam
+817. Pag Ghunghroo Baandh
+818. Ooe Ooe
+819. Thodisi Jo Pee Lee Hai
+820. Ae Ri Pawan
+821. Khafa Hoon Khafa Hoon
+822. Bhagi Re Bhagi Brij Bala
+823. Jogi Ho Jogi
+824. Hat Ja Bajoo Nahin To Uda
+825. Aanki Chali Baanki Chali
+826. Badi Der Se Megha Barsaa
+827. Ankh Milti Hai To
+828. Heer Sohni Shirin Laila
+829. Ae Babu Meri Chaal Men
+830. Hoton Pe Beeti Baat
+831. Disco 82
+832. Ghunghroo Toot Gaye
+833. Dekho Dekho Yeh To Kamaal
+834. Hum Tum Hum Do Rahi
+835. Dil Diya Hai
+836. Jawani Jan-E-Man
+837. Auva Auva Koi Yahan Nache
+838. Jhopdi Mein Charpai
+839. Ui Amma
+840. Rama Rama Re
+841. Mehbooba Meri Mehbooba
+842. Wah Wah Khel Shuru Ho Gaya
+843. Ladki Nahin Tu Lakdi Ka
+844. Ajnabi Kaun Ho Tum
+845. Aye Khuda Shukr Tera
+846. Mausam Mastana Hai
+847. Aao Mere Paas
+848. Likhne Wale Ne Likh Dale
+849. Meri Pahle Hi
+850. Kabhi Na Kabhi
+851. Tujh Mein Kya Hai Deewane
+852. Beliya Ab To Yeh Bahar
+853. Aesi Rang De Piya
+854. Zamana To Hai Naukar Biwi Ka
+855. Lakdi Ki Kathi
+856. Nindiya Se Jagi Bahar
+857. Ding Dong O Baby Sing
+858. Kya Naam Hai Tera
+859. Yaar Mila
+860. Baagon Ki Tu Rani Hai
+861. Raaste Mein Kal Ek Ladki Mili
+862. Ganga Tere Ghat Pe
+863. Dance Dance
+864. Kasam Paida Karnewale Ki
+865. Jeena Bhi Kya Koi Jeena Hai
+866. Daftar Ko Der Ho Gai
+867. Holi Ayee Re
+868. De De Pyar De
+869. Yeh Naina Yaad Hai
+870. Jahan Mil Jayen Chaar Yaar
+871. Mujhe Naulakha Mangawa De Re
+872. Ho Gaye Deewane
+873. Aa Jana Bahon Mein Aa Jana
+874. Jee Le Le Jee Le Le
+875. Bol Baby Bol Rock N Roll
+877. Yeh Sama
+878. Hum Chup Hain
+879. Janam Janam
+880. Dil Kya Hai
+881. Ek Baat Dil Mein
+882. Mausam Pyar Ka
+883. Zindagi Har Kadam Ek Nai Jung
+884. Tarzan My Tarzan
+885. Sharafat Ali Ko Sharafat Ne Mara
+886. Jeevan Sathi Saath Mein Rahna
+887. Tere Dil Ki Tu Jane
+888. Mohabbat Ke Dushman
+889. Kahan Kahan Pe
+890. Sare Niyam Tod Do
+891. Aye Sanam Tere Liye
+892. Chameli Ki Shaadi
+893. De Daru
+894. Kahe Toh Se Sajna
+895. Padosan Apni Murgi Ko Rakhna
+896. Main Hoon Hero
+897. Mere Hathon Mein Nau Nau
+898. Main Sasural Nahin Jaoongi
+899. Antakshari
+900. Humko Aajkal Hai Intezaar
+901. Raat Ko Barah Baje
+902. Vash Malle
+903. Anar Dana
+904. Megha Re Megha
+905. Mohe Chhedo Na
+906. Radha Nachegi
+907. Ek Doosre Se Karte Hain Pyar
+908. Chudiyan Khanak Gayeen
+909. Sanam Mere Sanam
+910. Main Hoon Khushrang Henna
+911. Meri Bindiya
+912. Jhoothe Naina
+913. Der Na Ho Jaye Kahin
+914. Le Le Chumma Le Le
+915. Naam Hai Mera Fonseca
+916. Are Yaaro Mere Pyaro
+917. Humse Hai Sara Jahan
+918. Yahan Ke Hum Sikandar
+919. Tu Roop Ki Rani Tu Choron Ka
+920. Romeo Naam Mera
+921. Meri Sanson Mein Tum
+922. Darwaza Band Karlo
+923. Rang Di Rang Di
+924. Didi Tera Devar Deewana
+925. Dhiktana (Part 1)
+926. Wah Wah Ramji
+927. Maye Ni Maye
+928. Chocolate Lime Juice
+929. Joote De Do Paise Le Lo
+930. Lo Chali Main
+931. Dhiktana (Part 2)
+932. Roop Suhana Lagta Hai
+933. Ghar Aaja Pardesi
+934. Meri Jaane Jana
+935. Ek Bagiya Mein
+936. Strawberry Aankhen
+937. Dhol Bajne Laga
+938. Meri Sanson Mein
+939. Rang De
+940. Yehi Hai Pyar
+941. Otashi Anata
+942. Ishq Da Rutba
+943. Kahe Kanha Karat Barjori
+944. Nainonwali Ne Hay Mera Dil
+945. Mera Naam Abdul Rahman
+946. Nache Ang Ve
